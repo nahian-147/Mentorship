@@ -1,4 +1,4 @@
-age = 20 
+age = 26 
 
 if age < 18:
 	print("You Can watch Other movies")
@@ -21,3 +21,10 @@ fruits = ['apples','oranges','mangoes']
 
 for f in name:
 	print(f)
+
+g = 9.81
+m = 50
+
+w = m*g
+
+print(w)
